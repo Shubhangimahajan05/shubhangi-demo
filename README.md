@@ -1,3 +1,4 @@
 # shubhangi-demo
-this is first repository
-author-shubhi
+this is first repository.
+<br>
+author-shubhi mahajan
